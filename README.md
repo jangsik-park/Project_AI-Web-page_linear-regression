@@ -65,13 +65,13 @@ target 변수는 배추의 평균 가격입니다.
 
 ### 🔥 아쉬운점
 
-DACON 대회까지는 참여하지 못 했습니다. [농산물 가격 예측 경진대회](https://dacon.io/competitions/official/235801/overview/description)<br>
-다양한 모델을 사용해 보지 못 했습니다.<br>
-다양한 변수를 생각하고, 선정하는데 실패했습니다.<br>
+- DACON 대회까지는 참여하지 못 했습니다. [농산물 가격 예측 경진대회](https://dacon.io/competitions/official/235801/overview/description)<br>
+- 다양한 모델(XGBoost, RandomForest)을 사용해 보지 못 했습니다.<br>
+- 다양한 변수를 생각하고, 선정하는데 실패했습니다.<br>
 
 <hr>
 
 ### 🔥 참고 문헌
 * [기상청 전국 기온 및 강수량](https://data.kma.go.kr/climate/StatisticsDivision/selectStatisticsDivision.do?pgmNo=158) : 기상청 정보를 토대로 채소 가격에 영향을 미치는 요인을 분석하기 위해 참고하였습니다.
 * [월별 배추 가격](https://www.kamis.or.kr/customer/price/retail/period.do?action=monthly&yyyy=2018&period=10&countycode=&itemcategorycode=200&itemcode=211&kindcode=&productrankcode=&convert_kg_yn=N) : 실질적인 국내 월별 배추 가격을 분석하기 위해 참고하였습니다.
-* [동빈나 유튜브](https://www.youtube.com/c/dongbinna) : 동빈나님의 유튜븡 영상을 참고 함.
+* [유튜브](https://www.youtube.com/c/dongbinna) : 유튜브 영상을 참고 함.
