@@ -68,6 +68,8 @@ target 변수는 배추의 평균 가격입니다.
 - DACON 대회까지는 참여하지 못 했습니다. [농산물 가격 예측 경진대회](https://dacon.io/competitions/official/235801/overview/description)<br>
 - 다양한 모델(XGBoost, RandomForest)을 사용해 보지 못 했습니다.<br>
 - 다양한 변수를 생각하고, 선정하는데 실패했습니다.<br>
+- 정확한 예측율을 도출해내는데 실패했습니다.
+- train data를 선정할 때, 상관계수를 구해서 객관적으로 판단했어야 했는데 임의로 정한 것이 아쉬움으로 남습니다.
 
 <hr>
 
