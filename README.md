@@ -1,5 +1,11 @@
-### 배추 가격 예측 인공지능 소프트웨어
+# 배추 가격 예측 인공지능 소프트웨어
 배추 가격을 예측하는 인공지능 소프트웨어입니다. <br/>
+
+
+### 목차
+1. 선형회귀를 활용한 AI 모델
+2. 웹페이지 제작 (Flask)
+3. 배포 (with Heroku)
 
 ### 참고 문헌
 * [기상청 전국 기온 및 강수량](https://data.kma.go.kr/climate/StatisticsDivision/selectStatisticsDivision.do?pgmNo=158) : 기상청 정보를 토대로 채소 가격에 영향을 미치는 요인을 분석하기 위해 참고하였습니다.
