@@ -65,9 +65,9 @@ target 변수는 배추의 평균 가격입니다.
 
 ### 🔥 아쉬운점
 
-DACON 대회까지는 참여하지 못 했습니다. [농산물 가격 예측 경진대회](https://dacon.io/competitions/official/235801/overview/description)
-다양한 모델을 사용해 보지 못 했습니다.
-다양한 변수를 생각하고, 선정하는데 실패했습니다.
+DACON 대회까지는 참여하지 못 했습니다. [농산물 가격 예측 경진대회](https://dacon.io/competitions/official/235801/overview/description)<br>
+다양한 모델을 사용해 보지 못 했습니다.<br>
+다양한 변수를 생각하고, 선정하는데 실패했습니다.<br>
 
 <hr>
 
