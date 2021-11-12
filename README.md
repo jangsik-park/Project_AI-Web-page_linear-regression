@@ -56,7 +56,7 @@
 변수는 그림에서 알 수 있듯이 5개(평균 온도, 최저온도, 최고온도, 강수량, 평균 풍속)를 사용했고, <br>
 target 변수는 배추의 평균 가격입니다.
 
-[EDA](#)
+[EDA](https://github.com/jangsik-park/Project_AI-Web-page_linear-regression/blob/master/Vegita-master/EDA/EDA.ipynb)
 
 ### 🔥 활용 아이디어
 
