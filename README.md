@@ -50,7 +50,8 @@
 기간은 2010년부터 2017년까지 7년 동안으로 설정했고,<br> 
 **총 2,900개**의 데이터를 수집하였습니다.
 
-![image](https://user-images.githubusercontent.com/56535821/141414732-d8f52d67-a04b-4789-93a8-5784dab8c44e.png)<br>
+![image](https://user-images.githubusercontent.com/56535821/141423560-b3e3f423-7404-4d32-ae69-3d97e33579ce.png)
+<br>
 
 변수는 그림에서 알 수 있듯이 4개(평균 풍속, 최저온도, 최고온도, 강수량)를 사용했고, <br>
 target 변수는 배추의 평균 가격입니다.
